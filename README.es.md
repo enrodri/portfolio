@@ -1,4 +1,5 @@
 # Mi portafolio de análisis de datos/ciencia de datos
+[![General badge](https://img.shields.io/badge/lang-en-blue.svg)]([https://shields.io/](https://github.com/pyloriBoi/portfolio/blob/main/README.md)) [![General badge](https://img.shields.io/badge/lang-es-red.svg)]([https://shields.io/](https://github.com/pyloriBoi/portfolio/blob/main/README.es.md))
 
 Archivos y cuadernos de Colab para demostrar mis habilidades de análisis de datos.
 
