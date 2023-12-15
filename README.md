@@ -1,5 +1,5 @@
 # My data analytics/data science portfolio
-[![General badge](https://img.shields.io/badge/lang-en-blue.svg)](https://shields.io/](https://github.com/pyloriBoi/portfolio/blob/main/README.md) [![General badge](https://img.shields.io/badge/lang-es-red.svg)](https://shields.io/](https://github.com/pyloriBoi/portfolio/blob/main/README.es.md)
+[![General badge](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/pyloriBoi/portfolio/blob/main/README.md) [![General badge](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/pyloriBoi/portfolio/blob/main/README.es.md)
 
 Files and Colab notebooks to showcase my skills for data analytics.
 
