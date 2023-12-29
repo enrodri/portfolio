@@ -12,6 +12,6 @@ No requiere de instalaciones, porque estos archivos pueden ser abiertos usando G
 ### NHANES 2015-2016
 
 - Descripción: Creé un análisis de datos usando un set de datos de NHANES 2015-2016
--Tecnologías: Python, Jupiter Notebooks, Pandas, NumPy, Plotly, Seaborn
+- Tecnologías: Python, Jupiter Notebooks, Pandas, NumPy, Plotly, Seaborn
 
 Siéntete libre de explorar el proyecto para más detalles
